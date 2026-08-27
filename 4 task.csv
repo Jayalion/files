@@ -1,0 +1,1132 @@
+"number","priority","state","assigned_to","short_description","sys_class_name","sys_created_on","sys_updated_on","description"
+"INC0356864","4 - Low","In Progress","Prakash S","SAS Supplier modification","Incident","26.08.2026 20:07:24","26.08.2026 20:15:28","Dear all,
+
+For the highlighted row, I need to modify ItmCat. SC and SAS Suppl. For ItmCat. SC, instead of “3 RD”, should be “OWN” and “1020” should change for “3050”.
+
+Could you please change this?
+
+Thanks in advance and kind regards
+
+Nicolás Degirmenci
+
+Project Manager
+
+Buhler SA
+
+Engineering Department
+
+Buenos Aires, Argentina.
+
+T +54 11 4733 2607 
+
+C +54 9 11 5017 9233
+
+F +54 11 4733 2602
+
+Mailto:nicolas.degirmenci@buhlergroup.com [mailto:nicolas.degirmenci@buhlergroup.com]
+
+www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Cd152b4e15e884c6af6f608df039cb1de%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233643679956181%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VHCWGIbQ%2BqTlaGwdGGqfG8B%2BOJSvcLGeR%2FXTqQ199d0%3D&reserved=0]"
+"INC0349292","4 - Low","In Progress","","OTH - Unblock the customer code ""14431840""","Incident","24.08.2026 09:16:02","27.08.2026 03:03:21","Dear Servicedesk,
+
+Pls help to unblock the customer code ""14431840”
+
+Best Regards,
+
+Ava Tang"
+"INC0353779","4 - Low","In Progress","","SAP Ibase - search for Machines SMC, - MYB","Incident","25.08.2026 14:32:12","26.08.2026 15:07:45","Dear Colleagues,
+
+We are searching for 2 two machines which we cannot find on CPSP. I checked various functions on CPSP but could not find them. 
+
+These are the information we received from the customer
+
+  type SMC 1500
+  214676 and 185068
+
+Do you have a chance to search for them? Please inform on any data you might find. 
+
+Thanks a lot for our kind support on this. 
+
+Kind regards,
+
+Nicole Macikowski
+CS Support Assistenz
+
+Bühler GmbH
+
+Ernst-Amme-Str. 19
+ 38114 Braunschweig 
+
+Deutschland
+
+T +49 531 594-2566
+
+F +49 531 594-2890
+
+nicole.macikowski@buhlergroup.com [mailto:nicole.macikowski@buhlergroup.com]
+
+www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C45ef8535c35b42a6297008df02a48325%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639232577721179104%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CKfN4%2BfQy8mo7CpoQF3wvOvY16lfktJR1XkefxPFnA8%3D&reserved=0]
+
+Amtsgericht Braunschweig HRB 797
+
+Geschäftsführer: Flavio Diaz
+
+Aufsichtsratsvorsitzender: Stefan Scheiber"
+"INC0350350","4 - Low","In Progress","","Request for mass Product ID Assignment","Incident","24.08.2026 13:04:04","26.08.2026 08:02:07","Dear Service Desk, 
+
+Could you please make a mass assignment of Product ID: PLANT_AUT_MOD
+
+For the following opportunities:
+
+Opp. ID
+
+ 335279
+
+ 333979
+
+ 329673
+
+ 332090
+
+ 315007
+
+ 334414
+
+ 334555
+
+ 322085
+
+ 328677
+
+ 334790
+
+ 335983
+
+ 331246
+
+ 335957
+
+ 336015
+
+ 331535
+
+ 320116
+
+ 329657
+
+ 337345
+
+ 337447
+
+ 331540
+
+ 323448
+
+ 323937
+
+ 325456
+
+ 330961
+
+ 326890
+
+ 329575
+
+ 335323
+
+ 334492
+
+ 331604
+
+ 334734
+
+ 328155
+
+ 330362
+
+ 329630
+
+ 326783
+
+ 330465
+
+ 333336
+
+ 336845
+
+ 333332
+
+ 336122
+
+ 331937
+
+ 328724
+
+ 320344
+
+ 319929
+
+ 307156
+
+ 328221
+
+ 333349
+
+ 317976
+
+ 332362
+
+ 326195
+
+ 330132
+
+ 335487
+
+ 291692
+
+ 337355
+
+ 334640
+
+ 324739
+
+ 331890
+
+ 333560
+
+ 330201
+
+ 302279
+
+ 311541
+
+ 336379
+
+ 143987
+
+ 324581
+
+ 296754
+
+ 336873
+
+ 323517
+
+ 309824
+
+ 327671
+
+ 335468
+
+ Best regards,
+
+Muzammil 
+
+Muzammil Mukhtar
+
+Head of Automation and Digital Solutions
+
+Middle East Africa & India
+
+Buhler AG, 
+
+Saudi Arabian Branch
+
+129, King Abdul Aziz Road
+
+P. O. Box 2990
+
+Riyadh 11461 / Kingdom of Saudi Arabia
+
+Mob.: +966 55 300 4332
+
+Tel.: +966 11 477 93 76
+
+ +966 11 476 90 88
+
+Fax: +966 11 477 96 70
+
+ +966 11 472 86 51
+
+E-Mail: muzammil.mukhtar@buhlergroup.com [mailto:muzammil.mukhtar@buhlergroup.com]
+
+Web: www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C829174e5e1104987111608df01cf488e%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639231661940694478%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=eD5bmtj%2FrtfvmYfJ7EvekVJppr7Va1cYEJcnFHE5i1o%3D&reserved=0]"
+"SCTASK0033726","4 - Low","Open","","I-base support request","Catalog Task","26.08.2026 14:58:23","26.08.2026 14:58:23",""
+"SCTASK0033600","4 - Low","Open","","Please complete the task for item: General Request","Catalog Task","26.08.2026 09:38:33","26.08.2026 10:25:04","Further information can be found in the related RITM. If you would like to communicate with the user who requested the item, please use Additional comments in the RITM."
+"SCTASK0033747","4 - Low","Open","","Please complete the task for item: General Request","Catalog Task","26.08.2026 15:30:09","26.08.2026 16:12:02","Further information can be found in the related RITM. If you would like to communicate with the user who requested the item, please use Additional comments in the RITM."
+"INC0356625","4 - Low","New","","SAP Finance Support (BPA): FSV - Please transport to PA4","Incident","26.08.2026 15:02:37","26.08.2026 15:10:57","Dear All
+
+Please forward this to SAP Finance Support (BPA) team:
+
+***********
+
+Dear All
+
+Please transport to PA4"
+"SCTASK0033664","4 - Low","Open","","Please complete the task for item: General Request","Catalog Task","26.08.2026 12:12:36","26.08.2026 12:26:23","Further information can be found in the related RITM. If you would like to communicate with the user who requested the item, please use Additional comments in the RITM."
+"INC0356133","4 - Low","New","","Bitte ändern Sie die Lieferadresse vom Lieferant 16958088 Lachenmeier Monsun A/S","Incident","26.08.2026 12:26:32","26.08.2026 12:29:19","Bitte ändern Sie die Lieferadresse vom Lieferant 16958088 Lachenmeier Monsun A/S wie folgt:
+
+Lachenmeier Monsun A/S 
+Coriolisvej 1
+DK-6400 Sønderborg"
+"INC0354827","4 - Low","New","","Rs batch understanding ","Incident","26.08.2026 07:27:05","26.08.2026 09:28:40","Dear Team ,
+
+ Please help to understand who is the RS batch team or a person . 
+
+Regards,
+
+Nistha Sharma"
+"SCTASK0033065","4 - Low","Open","","Please complete the task for item: General Request","Catalog Task","24.08.2026 16:56:52","26.08.2026 11:44:24","Further information can be found in the related RITM. If you would like to communicate with the user who requested the item, please use Additional comments in the RITM."
+"INC0353708","4 - Low","New","","SAP Machine shift required Cargill Aschersleben","Incident","25.08.2026 14:01:13","25.08.2026 14:12:13","Dear Colleagues,
+
+Our customer Cargill, Aschersleben, SAP 11169590 asked us to shift a machine to his Ibase.
+
+However, SAP shows an error note saying that the machine is already on customer’s account. 
+
+Can you please check this and kindly switch machine 10109391 from customer 1900020 to customer 11169590?
+
+Thanks a lot for your kind support on this. 
+
+Kind regards,
+
+Nicole Macikowski
+CS Support Assistenz
+
+Bühler GmbH
+
+Ernst-Amme-Str. 19
+ 38114 Braunschweig 
+
+Deutschland
+
+T +49 531 594-2566
+
+F +49 531 594-2890
+
+nicole.macikowski@buhlergroup.com [mailto:nicole.macikowski@buhlergroup.com]
+
+www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca308ae24e3ec48dcc54308df02a0376e%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639232559277075443%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Q4TSaxKNJ1xtKmsQo61fNasSSBgNgCDtmjfVAfc02qQ%3D&reserved=0]
+
+Amtsgericht Braunschweig HRB 797
+
+Geschäftsführer: Flavio Diaz
+
+Aufsichtsratsvorsitzender: Stefan Scheiber"
+"INC0356699","4 - Low","New","","open supplier 16971862 for BUZ","Incident","26.08.2026 15:40:23","26.08.2026 16:24:58","Dear Swati,
+
+Could you please extend supplier 16971862 for BUZ (urgent)
+
+Payment terms 30days net
+
+Incoterms FCA Drolshagen
+
+Thank you,
+
+Patrik
+
+Patrik Schumacher
+
+Program Manager CS Supply Chain
+
+Bühler AG
+
+CH-9240 Uzwil
+
+T +41 71 955 31 78
+
+Mail to: patrik.schumacher@buhlergroup.com [mailto:patrik.schumacher@buhlergroup.com]
+
+www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca45b0a4c283c4557a27f08df03777d47%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233483860546247%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=OPStePb0fSzMJIphXJN34sE6eA2oNdV6DfxntrJJNBw%3D&reserved=0]
+
+ [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.youtube.com%2Fbuhlergroup&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca45b0a4c283c4557a27f08df03777d47%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233483860575886%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pZ5%2BddehihZ5MY1wBzIuqesmwmDfRn8L35DDYj3%2Bsb0%3D&reserved=0] [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fbuhlergroup&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca45b0a4c283c4557a27f08df03777d47%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233483860594999%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FdIA1tlOU6XgBMGF6Ouw2c%2BWNHRS9UJiGXurZ6%2BWPms%3D&reserved=0]"
+"INC0356539","4 - Low","New","","Y00_ZMPO - PO Report ","Incident","26.08.2026 14:18:05","26.08.2026 20:33:12","Good day IT Service Desk Team,
+
+I am trying to run a daily backlog report but I keep getting this error:
+
+Here is the criteria I enter:
+
+  Plant: 1505 & 1501
+  Purch Group: D35 & D15, D16, D56
+
+I tried multiple times and also tried closing SAP and going back in, but I still get the error.
+
+Not sure if this matters but, I did notice a couple weeks ago, the layout of the report changed to this type of layout, which I did not do:
+
+Could I please get assistance on this?
+
+Thank you & regards,
+
+Terry"
+"INC0356761","4 - Low","New","","Urgent: Emails from long-standing supplier in quarantine marked as malware ","Incident","26.08.2026 16:43:43","26.08.2026 16:47:52","Hello everyone,
+
+There seems to have been a critical issue over the past few days regarding emails from our long-standing supplier, IGUS.
+
+The emails are not ending up in the junk mail folder, but are instead being placed in quarantine days later and flagged as malware.
+
+My colleague Beate Ried also experienced the same issue with the email I forwarded to her.
+
+Please look into this matter and get back to us as soon as possible, as otherwise we won’t be able to receive order confirmations or replies from our supplier.
+
+Thank you very much for your prompt assistance.
+
+Best regards from Reichshof 
+
+i.A. Sabine Osenberg
+General Administration Officer
+
+Bühler GmbH
+
+Gewerbeparkstraße 44
+
+51580 Reichshof
+
+ T +49 (0) 22 65 9988 231
+
+Sitz der Gesellschaft: D 51580 Reichshof, Gewerbeparkstraße 44, Germany
+
+Registergericht: Siegburg HRB 16715
+
+Geschäftsführer Marco Chialina
+
+mailto:Sabine.Osenberg@Buhlergroup.com [mailto:Sabine.Osenberg@Buhlergroup.com]
+
+www.buhlergroup.com/moulding [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.bindler.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C604f082ea2304f041c3208df038049e8%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233521699010221%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hB1YdSl4JqtanetDr3zRrYQ2Jp3cowax74MK%2BjUp800%3D&reserved=0]
+
+ [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.youtube.com%2Fbuhlergroup&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C604f082ea2304f041c3208df038049e8%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233521699041419%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HcdPMeyHnoCFrd4FgGKAODHTbGzNnzp4n7I4NOE482A%3D&reserved=0]  [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fbuhlergroup&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C604f082ea2304f041c3208df038049e8%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233521699061090%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Vk8cCfoeSU9d0PDq2u13M4SNp4Ns1LL2%2FE7j%2FN0i38s%3D&reserved=0]"
+"INC0356769","4 - Low","New","","SAP IQOS","Incident","26.08.2026 16:54:57","27.08.2026 02:13:52"," Hello together
+
+ I got a new error message, when saving a NCR. Can you please tell me, what this means?
+ BR
+ Michael
+
+Michael Strebl
+
+Quality Integrator 
+
+Bühler Wafer Solutions GmbH
+
+Franz Haas-Str. 1
+
+2100 Leobendorf
+
+Austria
+
+Mobile: +43676 8922 8737
+
+mailto: michael.strebl@buhlergroup.com [mailto:michael.strebl@buhlergroup.com]
+
+www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C056b24cb49f84637c28d08df0381d7e0%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233528353614830%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1kkZX6Bu1%2FPDeDZu8P87dNTxaZAbLVPLpwWmAqnQ%2Fbc%3D&reserved=0]
+
+ [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fbuhlergroup%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C056b24cb49f84637c28d08df0381d7e0%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233528353643564%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0J5afakS7we936r0U5i1zfrh57P3M1WXUGn8XSEG3k4%3D&reserved=0]  [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FBuhler_Group&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C056b24cb49f84637c28d08df0381d7e0%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233528353663405%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LmNFIPLPy6pl%2F7JoOCtavQTxvzHdEeHNDzbCvLWH284%3D&reserved=0]  [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2F391473&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C056b24cb49f84637c28d08df0381d7e0%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233528353682610%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2B%2BhA4EceulylWrYUdkoQVTO3natrpyfnBVPQBdCXWic%3D&reserved=0]  [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fbuhler_group%2F%3Ffbclid%3DIwAR2wsN99-COhE_-FNCxQMS4x3Qq0pGJQAGc3TNIPbuuN64UvAR7abjIxFPA&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C056b24cb49f84637c28d08df0381d7e0%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233528353701597%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vjrN5bYlr%2FkyOrQpmMaJBQHREmqG5N0ey%2Bq7IAc2KUM%3D&reserved=0]  [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fuser%2FBuhlerGroup&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C056b24cb49f84637c28d08df0381d7e0%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233528353728602%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qs5vdSCOkmQhelhZkgO3QR8EpqtUGjSdRBjzRIel788%3D&reserved=0]
+
+Information according to Austrian business law § 14 UGB
+
+Legal form: private limited company; Location: Leobendorf
+
+Reg. at: Landesgericht Korneuburg
+
+Reg. no.: FN 370504 i; VAT no.: ATU 66820899
+
+This e-mail (including any attachments) is confidential, may be legally privileged and is designated exclusively for the intended recipient. If you are not the intended recipient, please immediately delete this e-mail and notify the sender by phone or by e-mail. We process personal data in accordance with our privacy policy available at: www.buhlergroup.com/privacy [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2Fprivacy&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C056b24cb49f84637c28d08df0381d7e0%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233528353749314%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HHDtEXIeCUU2Qn%2BSZmU6jInHAnXbIW2pVE%2BIxH70lF0%3D&reserved=0]"
+"SCTASK0033621","4 - Low","Open","","Please complete the task for item: General Request","Catalog Task","26.08.2026 10:17:51","26.08.2026 10:20:44","Further information can be found in the related RITM. If you would like to communicate with the user who requested the item, please use Additional comments in the RITM."
+"INC0356516","4 - Low","New","","Access to QA4 for the users","Incident","26.08.2026 14:08:15","26.08.2026 16:04:56","Dear receiver,
+
+Please give access to QA4 for the users below, copying the roles from PA4.
+
+U64106 – Lucas Silva
+
+U66196 – Gabriela Tavares
+
+Thanks!
+
+Atenciosamente/Regards,
+
+Charles Groff Jansen
+
+ITP SAP Business Specialist - ITP COPA AMS
+
+Bühler do Brasil Ltda.
+
+Av. Juscelino Kubitschek de Oliveira, 1105
+
+Cidade Industrial, Curitiba/PR
+ Tel: +55 41 3317-5100
+
+Cel: +55 47 99138-8238
+
+charles,jansen@buhlergroup.com [mailto:nome.sobrenome@buhlergroup.com]
+
+www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C4c9efc53ab4b4d33026f08df036a8308%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233428126815988%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=knKF%2BxvuGfpDDSdq7lA%2B1yqJp%2FDgIn3hHbvNV8kAtPQ%3D&reserved=0]
+
+ [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fshowcase%2Fb%25C3%25BChler-group-karriere%2Fposts%2F%3FfeedView%3Dall&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C4c9efc53ab4b4d33026f08df036a8308%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233428126844221%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LzrKHShSMv%2BD%2FBHQs%2FtaICr5TniffJSCs5STkyIpGgs%3D&reserved=0] [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fbuhler_group%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C4c9efc53ab4b4d33026f08df036a8308%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233428126864943%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TENgNq4tNkrIlU2uKbn3lVQpVu5jvkd4CJ%2BeGCBQ5LY%3D&reserved=0] [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fbuhlergroup&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C4c9efc53ab4b4d33026f08df036a8308%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233428126883876%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xIvGEWcThT87LG0MipNzAFLMKGsf5S31eB9r8d0KUOc%3D&reserved=0] [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2FBuhler_Group&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C4c9efc53ab4b4d33026f08df036a8308%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233428126904420%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Brb6qg5VsTtty%2BH%2FEPU6PcYqEWkzrRniGjvShqHoo2E%3D&reserved=0]  [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fbuhlergroup&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C4c9efc53ab4b4d33026f08df036a8308%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233428126922987%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oTrTtFfeUA15xQbKkzfnC8QFIgxezRgM5o7cXA1%2Bq%2Fc%3D&reserved=0] "
+"INC0356740","4 - Low","New","","I have no access to showpad anymore. I guess this is due to my name change and t","Incident","26.08.2026 16:16:40","26.08.2026 16:32:25","I have no access to showpad anymore. I guess this is due to my name change and thus change in email adress"
+"INC0356779","4 - Low","New","","FW: Set up PMC in our Vendor System","Incident","26.08.2026 17:02:22","26.08.2026 17:42:16","forwarded by: robert.deckelbaum@buhlergroup.com
+
+Hello,
+
+Can you please assist in setting up this vendor in SAP for us and the vendor number extended to purchase org 5020? Let me know if you have any questions.
+
+Thanks,
+
+Robert Deckelbaum
+
+Buyer, BRAL
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (Direct) +1 919 278 2870
+
+robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]
+
+www.buhlergroup.com/drying [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2Fdrying&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca08a2a333bbd47bee82008df0382e6a9%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233532926248664%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=f2WuFIGy%2FW4%2FiyxxxS1MUwPFq6Ntqn%2FDJPhu01co6A8%3D&reserved=0]
+
+From: PMC <calib@bellsouth.net> 
+Sent: Monday, August 17, 2026 2:46 PM
+To: Robert Deckelbaum <robert.deckelbaum@buhlergroup.com>
+Subject: Re: Set up PMC in our Vendor System
+
+Hi Robert,
+
+Attached is the form you requested.
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+On Tuesday, August 11, 2026 at 08:25:45 AM EDT, Robert Deckelbaum <robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]> wrote: 
+
+Good morning, let me know if this word doc works. I had trouble editing it but think I got it to work.
+
+Thanks,
+
+Robert Deckelbaum
+
+Buyer, BRAL
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (Direct) +1 919 278 2870
+
+robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]
+
+www.buhlergroup.com/drying [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2Fdrying&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca08a2a333bbd47bee82008df0382e6a9%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233532926279868%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0egcbrmj982C9a6xMXvTn6CbiP6CuqEK7XAor4G6L5M%3D&reserved=0]
+
+From: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]> 
+Sent: Friday, July 31, 2026 2:06 PM
+To: Robert Deckelbaum <robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]>
+Subject: Re: Set up PMC in our Vendor System
+
+Hi Robert,
+
+After reviewing the ACH form you sent us we realized it had a net 60 days payment terms at the bottom. We would need that revised to say net 7 days payment terms that you mentioned in the e-mail below.
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+On Thursday, July 30, 2026 at 11:05:11 AM EDT, Robert Deckelbaum <robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]> wrote: 
+
+Good morning,
+
+I talked to our accounting team and we’d set your group up on Net 7. We process ACH checks weekly so Net 7 is how it sends the payment within 1 week. This cuts out credit card transaction fees and accomplishes the goal of quick payment.
+
+Thanks,
+
+Robert Deckelbaum
+
+Buyer, BRAL
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (Direct) +1 919 278 2870
+
+robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]
+
+www.buhlergroup.com/drying [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2Fdrying&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca08a2a333bbd47bee82008df0382e6a9%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233532926300660%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3LqBBdCNtHpn8Kmvuih8fovWrrrcZh4J9iAs%2BbAtOwU%3D&reserved=0]
+
+From: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]> 
+Sent: Friday, July 24, 2026 11:57 AM
+To: Robert Deckelbaum <robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]>
+Subject: Re: Set up PMC in our Vendor System
+
+Hi Robert,
+
+We have been doing calibration for Aeroglide/Buhler for over 25 years and we have always been paid by credit card. If you tell us you pay ACH as quickly as CC payment we can fill out the forms you requested.
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+On Friday, July 24, 2026 at 10:16:32 AM EDT, Robert Deckelbaum <robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]> wrote: 
+
+Good morning, following up one more time. Will you be filling out the attached documents so that we can set you up as a vendor in our system and we can facilitate work through your group?
+
+Thanks,
+
+Robert Deckelbaum
+
+Buyer, BRAL
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (Direct) +1 919 278 2870
+
+robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]
+
+www.buhlergroup.com/drying [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2Fdrying&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca08a2a333bbd47bee82008df0382e6a9%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233532926319754%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=q%2Buu5uYOjrFDPgG4BAptWhTjdPOjwIrBQfFYmdDukhs%3D&reserved=0]
+
+From: Robert Deckelbaum 
+Sent: Monday, July 20, 2026 12:19 PM
+To: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]>
+Subject: FW: Set up PMC in our Vendor System
+
+Good morning, following up on this. Have you had a chance to fill out the documentation needed for us to set you up as a vendor in our system?
+
+Thanks,
+
+Robert Deckelbaum
+
+Buyer, BRAL
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (Direct) +1 919 278 2870
+
+robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]
+
+www.buhlergroup.com/drying [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2Fdrying&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca08a2a333bbd47bee82008df0382e6a9%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233532926338396%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hWXshahxe6qzA8pDO6cXMjUtggi%2BUjzVI1hjFsyExCw%3D&reserved=0]
+
+From: Robert Deckelbaum 
+Sent: Tuesday, July 14, 2026 4:50 PM
+To: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]>
+Subject: Set up PMC in our Vendor System
+
+Good afternoon,
+
+We’d like to set you up as a vendor in our ERP system so that we can issue ACH payments for work performed by your group. Can you please fill out the attached documents that I can then use to have you set up in our system?
+
+I’ve also attached our Trade Reference sheet for if you need it on your end.
+
+Thanks,
+
+Robert Deckelbaum
+
+Buyer, BRAL
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (Direct) +1 919 278 2870
+
+robert.deckelbaum@buhlergroup.com [mailto:robert.deckelbaum@buhlergroup.com]
+
+www.buhlergroup.com/drying [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2Fdrying&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca08a2a333bbd47bee82008df0382e6a9%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233532926357009%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Gpu2hwRzNq4IIi9x2gceQ%2FtKN9LPODkfK7QLKL6U7Mw%3D&reserved=0]
+
+From: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]> 
+Sent: Monday, September 29, 2025 11:05 AM
+To: Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]>
+Subject: Re: 2025 Calibration
+
+Hi Carrie,
+
+We understand that your group at Buhler wants to issue PO#'s for calibration next year and that is fine with us. Last year all of the calibration work we did for Buhler was paid by with Diego Gonzalez's credit card other than Konstantin's group and he paid us by credit card last year and last week for the 20 pieces we already calibrated for him again this year. Please let us know if we can use Diego's card for the 2 pieces your group currently has here or have someone call us with a new cards info so we can finish up the paperwork on our end.
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+On Monday, September 29, 2025 at 09:23:00 AM EDT, Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]> wrote: 
+
+Good Morning Robert, 
+
+I don’t think there was a sense of urgency regarding the scale. Scott, the gentleman who dropped that scale off, mentioned a turnaround time of 1.5 - 2 weeks. He was just asking for an update so that he could plan the pickup accordingly. 
+
+@Scott- per the below, the scale and torque wrench should be ready this afternoon. 
+
+I confess I don’t know much about the historical relationship between Precision and Buhler (also, Mike Moses has retired). I do know that processes and purchasing requirements can change over the years, and I’ve been asked by my manager to use the PO process moving forward. If you are unable to participate in that change, then I can see what/if a credit card can be used as an exception this year. Understanding that next year and after, a PO will be the only method of payment. 
+
+The card you have on file belongs to a different business operation within Buhler Inc. They are separate from what we do. I will include Diego so that he can make sure there are no issues with Finance on this topic. 
+
+Thanks, 
+
+Carrie 
+
+Carrie Clayton
+
+Quality and EHS Manager
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (main): +1 919-520-0809
+
+carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]
+
+From: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]> 
+Sent: Friday, September 26, 2025 12:21 PM
+To: Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]>
+Subject: Re: 2025 Calibration
+
+Hi Carrie,
+
+We can have the 2 pieces that are here for calibration ready for pick up on Monday afternoon. When your coworker dropped of these pieces he had told me he had a backup scale and that there wasn't a rush to get the one we have back. At that time I had mentioned to him that we would need to know if we can run the credit card we have on file for Diego Gonzalez, and if not we would need the info for a new card. Just so you know. When Michael had come here to speak with me about doing your calibration last year the only request we had was to be paid by credit card as we have been for the last 20 plus years of doing calibration for Buhler Aeroglide. If you have any questions feel free to give us a call.
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+On Thursday, September 25, 2025 at 01:23:04 PM EDT, Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]> wrote: 
+
+Hi Robert, 
+
+Can you let us know when the scale will be ready for pickup?
+
+Also, you may have received an email from our Purchasing rep that includes documentation for getting you set up as a vendor in our SAP system. Please let me know if you have questions about anything. 
+
+Thanks, 
+
+Carrie 
+
+Carrie Clayton
+
+Quality and EHS Manager
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (main): +1 919-520-0809
+
+carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]
+
+From: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]> 
+Sent: Tuesday, September 9, 2025 12:29 PM
+To: Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]>
+Subject: Re: 2025 Calibration
+
+Hi Carrie,
+
+Any time between 10 am to 4 pm Monday thru Wednesday next week is good for you to drop off the first piece or two below. Should I e-mail Ryan the list I had sent you last week?
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+On Tuesday, September 9, 2025 at 12:02:41 PM EDT, Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]> wrote: 
+
+Hi Robert, 
+
+Here’s what we are looking to drop off from our MFG tools:
+
+Bench Scale
+
+ Ohaus
+
+ C124945082
+
+ Stockroom
+
+ As Needed
+
+ Yearly
+
+ 9/18/2024
+
+ 9/18/2025
+
+ Will drop this one off first
+
+ Bench Scale
+
+ Adam
+
+ AE6231249
+
+ Stockroom
+
+ As Needed
+
+ Yearly
+
+ 9/24/2024
+
+ 9/24/2025
+
+ When we pick up the Ohaus, we will drop off the Adam
+
+ 3/4 Dr. Torque Wrench
+
+ Armstrong
+
+ 816071761
+
+ Assembly
+
+ As Needed
+
+ Yearly
+
+ 9/18/2024
+
+ 9/18/2025
+
+ We will drop this off with one of the scales above
+
+ The Leybold tools will by handled directly by Konstantin Korotkov.
+
+I’ll have to get back to you about the tools from our test lab. More than likely, the main point of contact will be Ryan Morganthal. 
+
+Let me know the best day/time to drop off that first scale.
+
+Thanks
+
+Carrie 
+
+Carrie Clayton
+
+Quality and EHS Manager
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (main): +1 919-520-0809
+
+carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]
+
+From: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]> 
+Sent: Tuesday, September 2, 2025 11:07 AM
+To: Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]>
+Subject: Re: 2025 Calibration
+
+Hi Carrie,
+
+Attached is the calibration done list by date. If you have any questions feel free to give us a call.
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+On Tuesday, September 2, 2025 at 10:51:22 AM EDT, Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]> wrote: 
+
+Yes, a list would be helpful. Thanks!
+
+Carrie Clayton
+
+Quality and EHS Manager
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel main): +1 919-520-0809
+
+carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]
+
+From: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]> 
+Sent: Tuesday, September 2, 2025 10:50 AM
+To: Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]>
+Subject: Re: 2025 Calibration
+
+Hi Carrie,
+
+No Worries. We hope you had a good vacation.
+
+We can e-mail you the list of equipment we show due for calibration if that helps. Just let us know.
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+On Tuesday, September 2, 2025 at 10:36:02 AM EDT, Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]> wrote: 
+
+Hi guys. It wasn’t unfortunate for me! I, too, was taking a much needed Labor Day vacation. I am now back in office and will prioritize actions as needed. Calibration is definitely on my list, but it’s not at the top. 
+
+@Konstantin- decision for BLOU tool calibration will need to be assessed by your team. First, you need to review your schedule of calibration and see if you have a cadence of 1 year or more. 
+
+@Robert- I will reach out to you directly with Raleigh’s calibration needs, if any.
+
+Thanks, 
+
+Carrie 
+
+Carrie Clayton
+
+Quality and EHS Manager
+
+Buhler Inc.
+
+100 Aeroglide Drive
+
+Cary, NC 27511 USA
+
+Tel (main): +1 919-520-0809
+
+carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]
+
+From: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]> 
+Sent: Tuesday, September 2, 2025 10:30 AM
+To: Konstantin Korotkov <konstantin.korotkov@buhlergroup.com [mailto:konstantin.korotkov@buhlergroup.com]>; Carrie Clayton <carrie.clayton@buhlergroup.com [mailto:carrie.clayton@buhlergroup.com]>
+Subject: Re: 2025 Calibration
+
+Hi Konstantin,
+
+Unfortunately we haven't heard back from Carrie yet. I have her copied on this e-mail so hopefully we can make arrangements to get your equipment calibrated again by the end of this year. If you have any questions feel free to give us a call.
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+On Tuesday, September 2, 2025 at 07:51:07 AM EDT, Konstantin Korotkov <konstantin.korotkov@buhlergroup.com [mailto:konstantin.korotkov@buhlergroup.com]> wrote: 
+
+Hey Robert,
+
+Apologies for the delay, just got back from vacation, has Carrie responded to your email?
+
+Sincerely,
+
+Konstantin Korotkov
+
+Technician
+
+Buhler Inc.
+
+Business Area Leybold Optics 
+
+100 Aeroglide Drive
+
+Cary, NC 27511
+
+M 919-590-2071
+
+From: PMC <calib@bellsouth.net [mailto:calib@bellsouth.net]> 
+Sent: Thursday, August 28, 2025 11:45 AM
+To: Konstantin Korotkov <konstantin.korotkov@buhlergroup.com [mailto:konstantin.korotkov@buhlergroup.com]>
+Subject: 2025 Calibration
+
+Hi Konstantin,
+
+Earlier this week we sent Carrie and Michael an e-mail about getting Buhler's equipment calibrated again this year and the e-mail was undeliverable to Michael (he had mentioned retiring last year) and we haven't heard back form Carrie. Does Buhler plan on getting the equipment calibrated by us this year? Please advise one way or the other.
+
+Thanks,
+ Robert Hammerle
+ Precision Measurements Corporation
+ 553 Pylon Drive Suite E
+ Raleigh, NC 27606
+ 919-755-0382
+ calibrationlab.com
+
+DISCLAIMER: This e-mail (including any attachments) is confidential, may be legally privileged and is designated exclusively for the intended recipient.
+ If you are not the intended recipient, please immediately delete this e-mail and notify the sender by phone or by e-mail. 
+ We process personal data in accordance with our privacy policy available at:  www.buhlergroup.com/privacy [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.buhlergroup.com%2Fprivacy&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Ca08a2a333bbd47bee82008df0382e6a9%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233532926375614%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aY%2FmwrKGgQZGKx2tf7Yj4wFYdybkqYUVEm7F8K4Rn38%3D&reserved=0]."
+"SCTASK0033742","4 - Low","Open","","Please complete the task for item: General Request","Catalog Task","26.08.2026 15:19:12","26.08.2026 16:12:12","Further information can be found in the related RITM. If you would like to communicate with the user who requested the item, please use Additional comments in the RITM."
+"SCTASK0032583","4 - Low","Open","","Please complete the task for item: General Request","Catalog Task","20.08.2026 13:35:26","26.08.2026 16:12:22","Further information can be found in the related RITM. If you would like to communicate with the user who requested the item, please use Additional comments in the RITM."
+"SCTASK0033655","4 - Low","Open","","Please complete the task for item: General Request","Catalog Task","26.08.2026 11:45:14","26.08.2026 11:50:40","Further information can be found in the related RITM. If you would like to communicate with the user who requested the item, please use Additional comments in the RITM."
+"INC0356311","4 - Low","New","","CPC Project Result Application zeigt nichts an","Incident","26.08.2026 13:18:03","26.08.2026 13:35:19","CPC Project Result Application zeigt nichts an"
+"INC0356519","4 - Low","New","","Error While Creating a Campaign in ExactTarget","Incident","26.08.2026 14:10:41","26.08.2026 16:32:46"," Dear Service Desk Team,
+ I received an error message while creating a campaign in ExactTarget. Could you please assist me in resolving this issue?
+ Please find the error message attached for your reference.
+ Many thanks for your support.
+
+Best regards,
+
+Patience Ajiehi 
+
+ Marketing Support
+
+Bühler West Africa (BWAF)
+
+2 Reverend Ogunbiyi Crescent
+
+Off Oba Akinjobi Street
+
+GRA, Ikeja
+
+Lagos, Nigeria
+
+Tel: +2349169978776
+
+Email: patience.ajiehi@buhlergroup.com [mailto:Email:%20patience.ajiehi@buhlergroup.com]
+
+www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Cd61098b4101640861dcd08df036b06ba%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233430350335543%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=sutNNH%2FZ%2B6LeD6oQ3N%2FKKk6Pbw%2FGUfx0dREs8%2FXR1sc%3D&reserved=0]
+
+ [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fbuhlergroup%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Cd61098b4101640861dcd08df036b06ba%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233430350367046%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2Fm6DDpg1e%2FL8jeIZ6ZoEZZaS%2BOOxtWWFZJsfPlzvSo0%3D&reserved=0] [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FBuhler_Group&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Cd61098b4101640861dcd08df036b06ba%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233430350386952%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=szqHSNsCgn3V2dTFioZqj0zyrc4OasoXol7jKClBscM%3D&reserved=0]  [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2F391473&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Cd61098b4101640861dcd08df036b06ba%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233430350405936%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=azhA%2B%2BuJRG1QiKrV8jyEo2nmuztJQ1tseTmswsJxP%2B8%3D&reserved=0]  [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fbuhler_group%2F%3Ffbclid%3DIwAR2wsN99-COhE_-FNCxQMS4x3Qq0pGJQAGc3TNIPbuuN64UvAR7abjIxFPA&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Cd61098b4101640861dcd08df036b06ba%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233430350424595%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0dE67agH1nTzkC8I7MnKnmOlbyGjQflW0hmubahUxRI%3D&reserved=0]  [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fuser%2FBuhlerGroup&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Cd61098b4101640861dcd08df036b06ba%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233430350444091%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bTylMTe6QQ2hoopA%2FoTT6X2O3BYrfgzwnW3WzNmaBsE%3D&reserved=0]
+
+ [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.buhlergroup.com%2Fglobal%2Fen%2Findustries%2FWheat-and-grain.html&data=05%7C02%7Cservicedesk%40buhlergroup.com%7Cd61098b4101640861dcd08df036b06ba%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233430350462986%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=sqJaAPb13sJ5zM1BmpoPyG3FIzMtXXp7Kzlu8bDFQxM%3D&reserved=0]"
+"INC0356571","4 - Low","New","","FW: Digital PO Email 0060345415 / O-260278 / 2131667162","Incident","26.08.2026 14:29:02","26.08.2026 16:24:01","forwarded by: tobias.curatolo@buhlergroup.com
+
+Please block creditor 16120060 new is 16502880
+
+From: Tobias Curatolo 
+Sent: Friday, August 21, 2026 2:56 PM
+To: Anna-Christina Hannover <anna-christina.hannover@buhlergroup.com>
+Subject: FW: Digital PO Email 0060345415 / O-260278 / 2131667162
+
+Hallo Anna
+
+Hast du zu UXM -53199-014 noch weiterführende Infos oder kann der Kunde schauen, ob es ein Typenschild montiert hat.
+
+Siehe Infos unten.
+
+Freundliche Grüsse, Best Regards
+
+Tobias Curatolo
+
+Procurement Specialist
+
+Bühler AG 
+
+Abteilung CS633
+
+CH-9240 Uzwil 
+
+Tel. 0041 71 955 14 11
+
+mailto:tobias.curatolo@buhlergroup.com [mailto:tobias.curatolo@buhlergroup.com]
+
+www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C62e1d4f3da104204d7b008df036d4e47%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233440131147026%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xBBHHl9FDNntk4FMt%2BUFJYftarAHSFGjMoj4iE0WNIE%3D&reserved=0]
+
+From: EBT Swiss <info@ebtswiss.com [mailto:info@ebtswiss.com]> 
+Sent: Friday, August 21, 2026 2:47 PM
+To: Tobias Curatolo <tobias.curatolo@buhlergroup.com [mailto:tobias.curatolo@buhlergroup.com]>
+Subject: AW: Digital PO Email 0060345415 / O-260278
+
+Sehr geehrter Herr Curatolo,
+
+besten Dank für Ihre Anfrage.
+
+Die Firma Brunner Thermo GmbH ist seit 2020 Konkurs.
+
+Wir haben das Archiv und alle technischen Unterlagen von aus dem Konkurs gekauft.
+
+Können Sie uns für die einfachere Identifizierung von dem Wärmetauscher eine Auftragsbestätigung von Brunner passend zu Ihrer Anfrage liefern.
+
+Mein Kollege Herr Burri wird anschliessen das Angebot ausarbeiten.
+
+Mit Ihrer Rückmeldung Anfang nächster Woche würden wir das Angebot bis zum 28.08.2026 Ihnen zustellen.
+
+Können Sie uns bitte folgende Angaben ebenfalls zukommen lassen.
+
+  Installationsort Stadt/Land (Hilft zur Beurteilung, welche Druckgeräte Richtlinien berücksichtigt werden müssen:
+  Endkunde (zur Prüfung ob zusätzliche Anforderungen berücksichtigt werden müssen):
+
+Besten Dank im Voraus und ein schönes Wochenende wünsche ich Ihnen.
+
+Best regards / Freundliche Grüsse
+
+Lukas Meyer
+
+Head of Sales & Engineering / B.SC.Mechanical Engineer / MAS Business Administration
+
+EBT swiss engineering AG, Industrie Neuhaus, Tunnelstrasse 8, CH-8732 Neuhaus SG
+
+Office: +41 55 505 21 46
+
+E-mail: info@ebtswiss.com [mailto:info@ebtswiss.com], Homepage:  www.ebtswiss.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ebtswiss.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C62e1d4f3da104204d7b008df036d4e47%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233440131178826%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=d6XdcKVwERWFIYanMEjV6fCYTTMN5k%2FISTQX%2F2hPgWs%3D&reserved=0]
+
+DISCLAIMER:
+ The information contained in this communication is confidential and may be legally privileged. It is intended solely for the use of the individual or entity to whom it is addressed and others authorised to receive it. If you are not the intended recipient you are hereby notified that any disclosure, copying, distribution or taking any action in reliance of the contents of this information is strictly prohibited and may be unlawful. EBT swiss engineering AG is neither liable for the proper and complete transmission of the information contained in this communication nor for any delay in its receipt.
+
+Von:tobias.curatolo@buhlergroup.com [mailto:tobias.curatolo@buhlergroup.com] <tobias.curatolo@buhlergroup.com [mailto:tobias.curatolo@buhlergroup.com]> 
+Gesendet: Freitag, 21. August 2026 12:37
+An: EBT Swiss <info@ebtswiss.com [mailto:info@ebtswiss.com]>
+Cc:tobias.curatolo@buhlergroup.com [mailto:tobias.curatolo@buhlergroup.com]
+Betreff: Digital PO Email 0060345415
+
+Sehr geehrte Damen und Herren,
+
+ Es sind neue Dokumente für unsere Anfrage 0060345415 verfügbar.
+
+ Sie können über folgenden Link auf die Dokumente zugreifen:
+
+https://buhlergroup.sharepoint.com/sites/wg-supplierdocumentexchange/supplierdocumentexchange/info@brunnerthermo.ch [https://buhlergroup.sharepoint.com/sites/wg-supplierdocumentexchange/supplierdocumentexchange/info@brunnerthermo.ch?xsdata=MDV8MDJ8c2VydmljZWRlc2tAYnVobGVyZ3JvdXAuY29tfDYyZTFkNGYzZGExMDQyMDRkN2IwMDhkZjAzNmQ0ZTQ3fGVjNjRjNDMzMWVlODRkYmQ4MzdhMzlmNTZjN2NkY2VhfDB8MHw2MzkyMzM0NDAxMzEyMDExMDN8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpGYlhCMGVVMWhjR2tpT25SeWRXVXNJbFlpT2lJd0xqQXVNREF3TUNJc0lsQWlPaUpYYVc0ek1pSXNJa0ZPSWpvaVRXRnBiQ0lzSWxkVUlqb3lmUT09fDB8fHw%3d&sdata=TTd6ZnJOTFRHK1g3ZDhSQm5zTG5SZncwbmE5aUd2QkJUckQ0cWZaY3AyND0%3d]
+
+ Mit freundlichen Grüssen 
+
+ Tobias Curatolo
+
+ Bühler AG
+ Gupfenstrasse 5
+ CH-9240 Uzwil
+ Tel: +41719551411
+ E-Mail: tobias.curatolo@buhlergroup.com [mailto:tobias.curatolo@buhlergroup.com]
+www.buhlergroup.com [https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.buhlergroup.com%2F&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C62e1d4f3da104204d7b008df036d4e47%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233440131214669%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=JP4Sj6wq4NVPKFPEihVgMcWFLw4Z92yMlFceJgEbrQY%3D&reserved=0]
+
+DISCLAIMER: This e-mail (including any attachments) is confidential, may be legally privileged and is designated exclusively for the intended recipient.
+ If you are not the intended recipient, please immediately delete this e-mail and notify the sender by phone or by e-mail. 
+ We process personal data in accordance with our privacy policy available at:  www.buhlergroup.com/privacy [https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.buhlergroup.com%2Fprivacy&data=05%7C02%7Cservicedesk%40buhlergroup.com%7C62e1d4f3da104204d7b008df036d4e47%7Cec64c4331ee84dbd837a39f56c7cdcea%7C0%7C0%7C639233440131233603%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Vgx438nSLb%2FRDAs9mSWedosSoe6pC7ApqMRGZtatqvI%3D&reserved=0]."
+"INC0353222","4 - Low","New","","Issue while using the 'Analysis' option in Excel","Incident","25.08.2026 12:09:14","26.08.2026 09:40:53"," Hi Team,
+
+ I am facing the following error whenever I am trying to refresh or use the prompts from 'Analysis' tab in Excel,
+
+ Could you please look into this issue?
+
+ Regards,
+ Vikas"
